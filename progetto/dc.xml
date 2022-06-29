@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<!--elemento radice e namespaces, xsi attribuisce dei tipi a dc-->
+<collezione xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="Vignette" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/">
+	<!--unità gerarchicamente dipendente da Vignette-->
+<author xml:id="Vignette-01">
+<item n="1" xml:id="Vignette-01">
+			<dc:Title>Pag.16, cap. 1</dc:Title>
+			<!--questa è una tripla-->
+			<dc:Creator>Francesco Gonin</dc:Creator>
+			<dc:Contributor>Alessandro Manzoni</dc:Contributor>
+			<dc:Subject n="1">Disegno</dc:Subject>
+			<dc:Subject n="2">Vignetta pag. 16, Promessi Sposi 1840</dc:Subject>
+			<dc:Description>Disegno. Capitolo 1. Don Abbondio rientrando è fermato dai bravi. In cima alla strada si nota un'icona e sullo sfondo i monti.</dc:Description>
+			<dc:Description n="1">Personaggio: Don Abbondio</dc:Description>
+			<dc:Description n="2">Personaggio: Bravi</dc:Description>
+			<dc:Publisher>Guglielmini e Radealli</dc:Publisher>
+			<dc:Coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/1000080">Italia</dc:Coverage>
+			<dc:Date xsi:type="dcterms:W3CDTF">1840-01-01</dc:Date>
+			<dc:Type>disegno</dc:Type>
+			<dc:Format n="1">matita su carta</dc:Format>
+			<dc:Format n="2">10x8cm</dc:Format>
+			<dc:Identifier>001</dc:Identifier>
+			<dc:Source>I promessi sposi. Storia milanese del secolo XVII scoperta e rifatta da Alessandro Manzoni, 1840</dc:Source>
+			<dc:Language>it</dc:Language>
+			<dc:Relation>http://projects.dharc.unibo.it/philoeditor/</dc:Relation>
+			<dc:Right>Creative commons 4.0</dc:Right>
+		</item>
+	</author>
+</collezione>

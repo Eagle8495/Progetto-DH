@@ -1,0 +1,101 @@
+* {   box-sizing: border-box;
+} 
+
+body {
+  background-color: #20214f;
+}
+
+.titolo, .nav-item {
+color: #ffffff;
+text-align: center;
+font-weight: bold;
+font-family: "fantasy;", "Papyrus";
+}
+
+.nav-link {
+color: #ffffff !important;
+}
+
+.dropdown-menu {
+		background-color:  #008b8b !important;
+}
+.dropdown-item {
+	color: #ffffff !important;
+}
+ 
+.nav-pills {
+	background-color:  #008b8b !important;
+	}
+
+.carousel {
+	background-color:  #008b8b !important;
+}
+
+.card-body {
+  text-align: justify;
+}
+
+.card-title {
+font-family: "fantasy;", "Papyrus";
+font-weight: bold;
+}
+
+
+.carte {
+	background-color:  #008b8b;
+	 height: 400px;
+  	width: 100%;
+}
+
+.btn-outline-primary {
+	background-color: #20214f;
+	}
+
+.card-body-footer, .card-header {
+	color: #ffffff;
+	background-color: #20214f;
+	}
+
+	.text-muted {
+	color: #ffffff !important;
+	background-color: #20214f;
+	}
+
+#quote {
+font-style: italic !important;
+}
+
+#badge {
+background-color: #008b8b;}
+
+#linkdescription {
+	height: 30px;
+  	width: 30px;
+  	margin: 25px;
+  	color: #ffffff !important;
+  }
+
+#citation {
+	font-style: italic;
+	color: #ffffff !important;
+background-color: #008b8b;
+}
+
+#bottonitem {
+ margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+ }
+
+#xml {
+	background-color: #20214f !important;
+  margin-right: 100px;
+  margin-left: 50px;
+ }
+
+
+
+.breadcrumb-item {
+	color: #ffffff !important;
+	}
+

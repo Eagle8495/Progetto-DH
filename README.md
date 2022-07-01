@@ -8,4 +8,4 @@ Confronti tra illustrazioni e dipinti, presenza di mappe per orientarsi nel roma
 Codifica item in DC e TEI.
 
 Sito disponibile all'indirizzo:
-https://eagle8495.github.io/Progetto-DH/
+https://eagle8495.github.io/Vignette-PromessiSposi/

@@ -1,0 +1,143 @@
+* {   box-sizing: border-box;
+} 
+
+body {
+  background-color: #20214f;
+}
+
+.titolo, .nav-item {
+color: #ffffff;
+text-align: center;
+font-weight: bold;
+font-family: "fantasy;", "Papyrus";
+}
+
+.nav-link {
+color: #ffffff !important;
+}
+
+.dropdown-menu {
+		background-color:  #008b8b !important;
+}
+.dropdown-item {
+	color: #ffffff !important;
+}
+ 
+.nav-pills {
+	background-color:  #008b8b !important;
+	}
+
+.carousel {
+	background-color:  #008b8b !important;
+}
+
+.card-body {
+  text-align: justify;
+}
+
+.card-title {
+font-family: "fantasy;", "Papyrus";
+font-weight: bold;
+}
+
+
+.carte {
+	background-color:  #008b8b;
+	 height: 400px;
+  	width: 100%;
+}
+
+#sfondocarte {
+	background-color:  #008b8b;}
+
+.btn-outline-primary {
+	background-color: #20214f;
+	}
+
+.card-body-footer, .card-header {
+	color: #ffffff;
+	background-color: #20214f;
+	}
+
+	.text-muted {
+	color: #ffffff !important;
+	background-color: #20214f;
+	}
+
+#quote {
+font-style: italic !important;
+}
+
+
+#linkdescription {
+	height: 30px;
+  	width: 30px;
+  	margin: 25px;
+  	color: #ffffff !important;
+  }
+
+#citation {
+	font-style: italic;
+	color: #ffffff !important;
+background-color: #008b8b;
+}
+
+#bottonitem {
+ margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+ }
+/* flipcard info*/
+ .flip-card {
+  background-color: #008b8b;
+  width: 340px;
+  height: 260px;
+  border: 1px solid #008b8b; }
+
+  .flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d; }
+
+  .flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* posizione */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/*stile immagine mancante */
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+/* stile retro */
+.flip-card-back {
+	font-family: "fantasy;", "Papyrus" !important;
+	font-weight: bold;
+  background-color: #008b8b;
+  color: #20214f;
+  transform: rotateY(180deg);
+}
+
+#xml {
+	background-color: #20214f !important;
+  margin-right: 100px;
+  margin-left: 50px;
+ }
+
+
+.breadcrumb-item {
+	color: #ffffff !important;
+	}
+

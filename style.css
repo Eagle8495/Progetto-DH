@@ -64,6 +64,14 @@ font-weight: bold;
 	background-color: #20214f;
 	}
 
+.zoom {
+transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+transform: scale(2.5);
+}
+
 #quote {
 font-style: italic !important;
 }
